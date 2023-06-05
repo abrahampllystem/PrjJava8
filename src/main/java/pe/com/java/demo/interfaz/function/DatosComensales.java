@@ -1,6 +1,6 @@
-package pe.com.java.demo.interfaceFunctional;
+package pe.com.java.demo.interfaz.function;
 
-import pe.com.java.demo.interfaceFunctional.bean.Comensal;
+import pe.com.java.demo.interfaz.function.bean.Comensal;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -11,8 +11,8 @@ public class DatosComensales {
     public static void main(String[] args) {
         List<Comensal> listaComensales =
                 List.of(Comensal.builder().nombre("Javier").mesa(10).monto_pedido(5).build()
-                        ,Comensal.builder().nombre("Pablo").mesa(20).monto_pedido(52).build()
-                        ,Comensal.builder().nombre("Pedro").mesa(30).monto_pedido(52).build());
+                        , Comensal.builder().nombre("Pablo").mesa(20).monto_pedido(52).build()
+                        , Comensal.builder().nombre("Pedro").mesa(30).monto_pedido(52).build());
 
         List<Object> nombreComensales = getDataComensales(listaComensales, comensal  -> comensal.getNombre());
 
@@ -31,7 +31,7 @@ public class DatosComensales {
         System.out.println(message + obj);
     }
     public static List<Object> getDataComensales(
-       List<Comensal> listCom, Function<Comensal, Object> func)
+            List<Comensal> listCom, Function<Comensal, Object> func)
 
     {
         // Lista que almacena datos de los comensales

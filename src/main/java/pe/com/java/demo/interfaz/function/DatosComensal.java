@@ -1,6 +1,6 @@
-package pe.com.java.demo.interfaceFunctional;
+package pe.com.java.demo.interfaz.function;
 
-import pe.com.java.demo.interfaceFunctional.bean.Comensal;
+import pe.com.java.demo.interfaz.function.bean.Comensal;
 
 import java.util.function.Function;
 
@@ -16,7 +16,7 @@ public class DatosComensal {
         System.out.println("La mesa del comensal es : "+ mesa);
     }
     public static Object  getDatoComensal(
-        Comensal com, Function<Comensal, Object> func
+            Comensal com, Function<Comensal, Object> func
     ){
         return func.apply(com);
     }
