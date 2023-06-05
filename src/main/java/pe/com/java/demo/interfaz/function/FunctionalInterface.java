@@ -1,4 +1,4 @@
-package pe.com.java.demo.interfaceFunctional;
+package pe.com.java.demo.interfaz.function;
 
 import java.util.function.Function;
 

@@ -1,4 +1,4 @@
-package pe.com.java.demo.interfaceFunctional.bean;
+package pe.com.java.demo.interfaz.function.bean;
 
 
 import lombok.AllArgsConstructor;

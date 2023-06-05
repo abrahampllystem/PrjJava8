@@ -1,4 +1,4 @@
-package pe.com.java.demo.interfazbifunction.ejemplo1;
+package pe.com.java.demo.interfaz.bifunction.ejemplo1;
 
 import java.util.function.BiFunction;
 

@@ -1,4 +1,4 @@
-package pe.com.java.demo.interfazbifunction.ejemplo2;
+package pe.com.java.demo.interfaz.bifunction.ejemplo2;
 
 public class EjercicioBiFunction2 {
     public static void main(String[] args) {
