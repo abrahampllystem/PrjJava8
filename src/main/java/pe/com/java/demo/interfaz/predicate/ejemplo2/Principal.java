@@ -23,13 +23,31 @@ public class Principal {
                 Empleado.builder().nombre("javier").edad(35).salario(600).departamento("cobranzas").build());
 
         Evaluador objEvaluador = new Evaluador();
-        System.out.println("empleados con salario > 5000");
+
         List<Empleado> listAltos =  objEvaluador.evaluar(listEmple,
                 empleado -> empleado.getSalario()>5000);
 
-        System.out.println("empleado que su nombre inicia con j");
+        System.out.println("\nEmpleados con salario > 5000");
+        listAltos.forEach(
+                x -> System.out.println("nombre de empleado :"+ x.getNombre())
+        );
 
-        objEvaluador.evaluar(listEmple,
+
+
+        List<Empleado> listStartWithJ = objEvaluador.evaluar(listEmple,
                 empleado -> empleado.getNombre().startsWith("j"));
+
+        System.out.println("\nEmpleado que su nombre inicia con j");
+        listStartWithJ.forEach(z -> System.out.println(z.getNombre()));
+
+
+
+        List<Empleado> employeeYoung= objEvaluador.evaluar(listEmple,
+                empleado -> empleado.getEdad()<25);
+
+        System.out.println("\nEmpleados Jovenes: ");
+        employeeYoung.forEach(young -> System.out.println(young.getNombre()));
+
+
     }
 }

@@ -55,6 +55,7 @@ public class Principal {
          
         });
 
+        System.out.println("\nEmpleados con nuevo salario");
         listYoungEmployee.forEach(empleado -> System.out.println("Nombre :"+ empleado.getNombre()+
                 "  Salario :"+empleado.getSalario()));
 
@@ -64,6 +65,10 @@ public class Principal {
         listOldEmployee.forEach(empleado -> System.out.println("Nombre :" + empleado.getNombre()+
                 " Edad :"+ empleado.getEdad()+
                 " Salario :"+empleado.getSalario()));
+
+
+
+
 
     }
 }

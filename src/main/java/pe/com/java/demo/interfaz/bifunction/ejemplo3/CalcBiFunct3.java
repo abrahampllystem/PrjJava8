@@ -2,7 +2,7 @@ package pe.com.java.demo.interfaz.bifunction.ejemplo3;
 
 import java.util.List;
 
-public class EjercicioBiFunction3 {
+public class CalcBiFunct3 {
 
     public static void main(String[] args) {
         List<Empleado> listEmpleados =
@@ -17,9 +17,9 @@ public class EjercicioBiFunction3 {
                         Empleado.builder().nombre("flor").salario(2123543.2).build(),
                         Empleado.builder().nombre("mirna").salario(321653.2).build());
 
-        Calculadora2 objCalculadora2 = new Calculadora2();
+        CalcBiFunct2 objCalcBiFunct2 = new CalcBiFunct2();
         List<Double> objsalario =
-        objCalculadora2.calc((salario, incremento)
+        objCalcBiFunct2.calc((salario, incremento)
                 -> salario + (salario * (incremento/100))
                 , listEmpleados, 16.0);
 

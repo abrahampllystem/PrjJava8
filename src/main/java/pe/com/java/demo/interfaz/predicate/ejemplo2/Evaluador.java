@@ -10,9 +10,10 @@ public class Evaluador {
     public List<Empleado> evaluar(List<Empleado> listEmp,
                                  Predicate<Empleado> eval){
         System.out.println("== lista inicial ==");
-//        listEmp.forEach(System.out::println);
+        listEmp.forEach(System.out::println);
     List<Empleado> listaNueva = new ArrayList<>();
-        listaNueva=listEmp.stream().filter((empleado ->  eval.test(empleado))).collect(Collectors.toList());
+        listaNueva=listEmp.stream().filter((empleado ->  eval.test(empleado)))
+                .collect(Collectors.toList());
         System.out.println("== lista filtrada ==");
 //        listaNueva.forEach(System.out::println);
         return listaNueva;
