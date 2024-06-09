@@ -1,0 +1,20 @@
+package pe.com.java.demo.interfaz.bifunction.ejemplo3;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.function.BiFunction;
+
+public class CalcBiFunct2 {
+
+    public List<Double> calc(BiFunction<Double, Double, Double> bfunction,
+                             List<Empleado> lstEmployee, Double incremento){
+        System.out.println("Ingreso de valores ");
+        
+        List<Double> listSalarios = new ArrayList<>();
+
+         lstEmployee.forEach(obj -> listSalarios.add(bfunction.apply(obj.getSalario(), incremento)));
+
+       return listSalarios;
+
+    }
+}

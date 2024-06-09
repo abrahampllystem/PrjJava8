@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="57e85d70-dda1-4dea-aa84-200156a63594" name="Changes" comment="feat: pre-develop add function optional">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Maven/Apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:/Maven/Apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2gqvEawSmK3wWfdqzkCZbwkFQgn" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/ProyectosPersonales/Java8/CapaJava8/workspace/personal/git/PrjJava8&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;dd7da2ad49f1fdc25f282b1adeef9d82&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pe.com.java.demo.referencemethod.ejemplo1" />
+      <recent name="pe.com.java.demo.referencemethod.ejemplo1.bean" />
+      <recent name="pe.com.java.demo.interfaz.bifuntionInterface" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Ejemplo01">
+    <configuration name="CrearStream04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.com.java.demo.stream.ejemplo04.CrearStream04" />
+      <module name="PrjJava8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pe.com.java.demo.stream.ejemplo04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejemplo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.com.java.demo.optional.Ejemplo01" />
+      <module name="PrjJava8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pe.com.java.demo.optional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpReduccion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.com.java.demo.collectrs.OpReduccion" />
+      <module name="PrjJava8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pe.com.java.demo.collectrs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperacionesReduce01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.com.java.demo.operaciones.OperacionesReduce01" />
+      <module name="PrjJava8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pe.com.java.demo.operaciones.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SupplierTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.com.java.demo.interfaz.supplier.SupplierTest" />
+      <module name="PrjJava8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pe.com.java.demo.interfaz.supplier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrjJava8Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="PrjJava8" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pe.com.java.demo.PrjJava8Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ejemplo01" />
+        <item itemvalue="Application.OpReduccion" />
+        <item itemvalue="Application.SupplierTest" />
+        <item itemvalue="Application.OperacionesReduce01" />
+        <item itemvalue="Application.CrearStream04" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\aperaltall\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57e85d70-dda1-4dea-aa84-200156a63594" name="Changes" comment="" />
+      <created>1716437813276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716437813276</updated>
+      <workItem from="1716437813277" duration="5135000" />
+      <workItem from="1717214683637" duration="6335000" />
+      <workItem from="1717255784436" duration="20133000" />
+      <workItem from="1717359858888" duration="11092000" />
+      <workItem from="1717417144765" duration="7808000" />
+      <workItem from="1717802898022" duration="19778000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: pre-develop add new changes about feature java8">
+      <option name="closed" value="true" />
+      <created>1717886231429</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717886231429</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: pre-develop add function optional">
+      <option name="closed" value="true" />
+      <created>1717905289796</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717905289796</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: pre-develop add function optional">
+      <option name="closed" value="true" />
+      <created>1717905299908</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717905299908</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: pre-develop add new changes about feature java8" />
+    <MESSAGE value="feat: pre-develop add function optional" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: pre-develop add function optional" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.UnsupportedOperationException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pe/com/java/demo/PrjJava8Application.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PrjJava8$PrjJava8ApplicationTests_test_order_inversa.ic" NAME="PrjJava8ApplicationTests.test_order_inversa Coverage Results" MODIFIED="1716445077168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pe.com.java.demo.*</FILTER>
+    </SUITE>
+  </component>
+</project>
