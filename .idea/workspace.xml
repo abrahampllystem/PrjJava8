@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57e85d70-dda1-4dea-aa84-200156a63594" name="Changes" comment="feat: pre-develop add function optional">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/com/java/demo/interfaz/function/FunctionalInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/com/java/demo/interfaz/function/FunctionalInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pe/com/java/demo/interfaz/function/FunctionalInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/com/java/demo/interfaz/function/FunctionalInterface.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,13 +34,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="C:/Maven/Apache-maven-3.6.3" />
+        <option name="customMavenHome" value="C:\Maven\Apache-maven-3.8.4" />
+        <option name="localRepository" value="C:\Users\aperaltall\.m2\repository" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
         <option name="userSettingsFile" value="C:/Maven/Apache-maven-3.6.3/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -44,32 +53,43 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2gqvEawSmK3wWfdqzkCZbwkFQgn" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/ProyectosPersonales/Java8/CapaJava8/workspace/personal/git/PrjJava8&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;dd7da2ad49f1fdc25f282b1adeef9d82&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DatosComensal.executor": "Run",
+    "Application.FunctionalInterface.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/ProyectosPersonales/Java8/CapaJava8/workspace/personal/git/PrjJava8",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "spring.configuration.checksum": "dd7da2ad49f1fdc25f282b1adeef9d82",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="pe.com.java.demo.referencemethod.ejemplo1" />
@@ -77,13 +97,13 @@
       <recent name="pe.com.java.demo.interfaz.bifuntionInterface" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ejemplo01">
-    <configuration name="CrearStream04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pe.com.java.demo.stream.ejemplo04.CrearStream04" />
+  <component name="RunManager" selected="Application.FunctionalInterface">
+    <configuration name="DatosComensal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.com.java.demo.interfaz.function.DatosComensal" />
       <module name="PrjJava8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pe.com.java.demo.stream.ejemplo04.*" />
+          <option name="PATTERN" value="pe.com.java.demo.interfaz.function.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OpReduccion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pe.com.java.demo.collectrs.OpReduccion" />
+    <configuration name="FunctionalInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.com.java.demo.interfaz.function.FunctionalInterface" />
       <module name="PrjJava8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pe.com.java.demo.collectrs.*" />
+          <option name="PATTERN" value="pe.com.java.demo.interfaz.function.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperacionesReduce01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pe.com.java.demo.operaciones.OperacionesReduce01" />
+    <configuration name="OpReduccion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.com.java.demo.collectrs.OpReduccion" />
       <module name="PrjJava8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pe.com.java.demo.operaciones.*" />
+          <option name="PATTERN" value="pe.com.java.demo.collectrs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FunctionalInterface" />
+        <item itemvalue="Application.DatosComensal" />
         <item itemvalue="Application.Ejemplo01" />
         <item itemvalue="Application.OpReduccion" />
         <item itemvalue="Application.SupplierTest" />
-        <item itemvalue="Application.OperacionesReduce01" />
-        <item itemvalue="Application.CrearStream04" />
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +197,8 @@
       <workItem from="1717359858888" duration="11092000" />
       <workItem from="1717417144765" duration="7808000" />
       <workItem from="1717802898022" duration="19778000" />
+      <workItem from="1717910887937" duration="14000" />
+      <workItem from="1718828599018" duration="402000" />
     </task>
     <task id="LOCAL-00001" summary="feat: pre-develop add new changes about feature java8">
       <option name="closed" value="true" />
